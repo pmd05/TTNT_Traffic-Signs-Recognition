@@ -61,8 +61,6 @@ dataset/
 ├── Train/
 ├── Test/
 ├── Meta/
-├── Meta.csv
-├── Train.csv
 └── Test.csv
 
 ## 2. Tạo Virtual Environment
